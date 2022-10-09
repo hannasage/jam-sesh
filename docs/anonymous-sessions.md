@@ -23,7 +23,7 @@ As you navigate to the pin entry page for a Jam Session, and successfully authen
 }
 ```
 
-This is taken and put into `localStorage` before navigating you to the Jam Session main page.
+This is taken and put into a cookie before navigating you to the Jam Session main page.
 
 ## When is it read?
 
