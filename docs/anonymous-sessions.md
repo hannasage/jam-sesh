@@ -6,11 +6,7 @@ Because the app doesn't want to store any user information in its database, sess
 
 ## What's in the cookie?
 
-There's two values necessary to authorize an anonymous user: a `sessionToken` and `sessionId`. The cookie will look like this:
-
-```typescript jsx
-document.cookie="sessionId=<ID>; sessionToken=<TOKEN>";
-```
+There's two values necessary to authorize an anonymous user: a `sessionToken` and `sessionId`.
 
 ## When is the cookie created?
 
