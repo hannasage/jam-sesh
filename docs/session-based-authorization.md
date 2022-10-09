@@ -19,8 +19,7 @@ As you navigate to the pin entry page for a Jam Session, and successfully authen
 ```json
 {
   "sessionToken": "123abc789xyz",
-  "sessionId": "123abc",
-  "expires": "2020-07-10 15:00:00.000"
+  "sessionId": "123abc"
 }
 ```
 
