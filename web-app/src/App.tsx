@@ -1,9 +1,9 @@
-import { JamBoard } from "./pages/JamBoard"
+import { PassCodeInput } from "./components/elements/PassCodeInput";
 
 function App() {
   return (
     <>
-      <JamBoard />
+      <PassCodeInput />
     </>
   );
 }
